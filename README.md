@@ -1,4 +1,7 @@
 # EnVi-Guard-Your-Friendly-Doorbell-Security-Camera
+
+Environment Vision Guard: Your Friendlt Home Security Doorbell Camera
+
 This is a Python-based smart security system that simulates a real-world doorbell camera system with owner-controlled access. Built using Tkinter and OpenCV, the system provides a simple yet functional simulation of a live home monitoring and door control interface, complete with timestamps and action logging.
 
 📦 Install Requirements
