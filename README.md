@@ -15,41 +15,41 @@ This module is actually called Pillow, which is the modern fork of PIL (Python I
 
 🎥 Live Camera Feed
 
-Uses OpenCV to continuously display the camera feed.
+- Uses OpenCV to continuously display the camera feed.
 
-Positioned at the top center of the interface.
+- Positioned at the top center of the interface.
 
 
 🔔 Doorbell System
 
-A “Ring Doorbell” button simulates a visitor pressing the bell.
+- A “Ring Doorbell” button simulates a visitor pressing the bell.
 
-Triggers the display of Accept and Reject buttons for owner action.
+- Triggers the display of Accept and Reject buttons for owner action.
 
 
 ✅ Access Control
 
-Accept Button: Unlocks the door and displays Door Unlocked.
+- Accept Button: Unlocks the door and displays Door Unlocked.
 
-Reject Button: Displays Access Denied for 10 seconds, then resets the status to Door Locked.
+- Reject Button: Displays Access Denied for 10 seconds, then resets the status to Door Locked.
 
 
 🔒 Manual Door Control
 
-Lock Door button available at all times to manually lock the door after unlocking.
+- Lock Door button available at all times to manually lock the door after unlocking.
 
 
 🕒 Date and Time Display
 
-Real-time display of day, date (DD/MM/YYYY) and time (24-hour format) shown below the camera feed.
+- Real-time display of day, date (DD/MM/YYYY) and time (24-hour format) shown below the camera feed.
 
-Mimics CCTV-style timestamping.
+- Mimics CCTV-style timestamping.
 
 
 🛠️ Requirements
 
-Python 3.7+
+- Python 3.7+
 
-OpenCV
+- OpenCV
 
-Tkinter (usually pre-installed with Python)
+- Tkinter 
